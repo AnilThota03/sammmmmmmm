@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Programs\\PractiseVilla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\controllers\\villanumbercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\controllers\\villanumbercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\models\\dtos\\villanumbercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\models\\dtos\\villanumbercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\models\\dtos\\villanumberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\models\\dtos\\villanumberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\models\\dtos\\villanumberupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\models\\dtos\\villanumberupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\models\\dtos\\villaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\models\\dtos\\villaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\models\\dtos\\villacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\models\\dtos\\villacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\models\\villanumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\models\\villanumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\repository\\villanumberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\repository\\villanumberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\repository\\irepository\\ivillanumberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\repository\\irepository\\ivillanumberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\repository\\villarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\repository\\villarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\repository\\irepository\\ivillarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\repository\\irepository\\ivillarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\models\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\models\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\practisevilla.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\practisevilla.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\models\\dtos\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\models\\dtos\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\migrations\\20250408043744_initialmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\migrations\\20250408043744_initialmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\migrations\\20250408044048_intialmodelupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\migrations\\20250408044048_intialmodelupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|d:\\c#\\programs\\practisevilla\\practisevilla\\migrations\\20250408102204_addvillanumbertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A0CADB-5DF5-46CA-B21F-5CAF75C8B05F}|PractiseVilla\\PractiseVilla.csproj|solutionrelative:practisevilla\\migrations\\20250408102204_addvillanumbertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 142,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VillaNumberCreateDto.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Models\\Dtos\\VillaNumberCreateDto.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Models\\Dtos\\VillaNumberCreateDto.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Models\\Dtos\\VillaNumberCreateDto.cs",
+              "RelativeToolTip": "PractiseVilla\\Models\\Dtos\\VillaNumberCreateDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:54:07.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VillaNumberController.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Controllers\\VillaNumberController.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Controllers\\VillaNumberController.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Controllers\\VillaNumberController.cs",
+              "RelativeToolTip": "PractiseVilla\\Controllers\\VillaNumberController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv0cAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:49:19.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VillaUpdateDto.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Models\\Dtos\\VillaUpdateDto.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Models\\Dtos\\VillaUpdateDto.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Models\\Dtos\\VillaUpdateDto.cs",
+              "RelativeToolTip": "PractiseVilla\\Models\\Dtos\\VillaUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:33:32.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VillaNumberDto.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Models\\Dtos\\VillaNumberDto.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Models\\Dtos\\VillaNumberDto.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Models\\Dtos\\VillaNumberDto.cs",
+              "RelativeToolTip": "PractiseVilla\\Models\\Dtos\\VillaNumberDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:54:21.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PractiseVilla\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:21:41.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VillaController.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Controllers\\VillaController.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Controllers\\VillaController.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Controllers\\VillaController.cs",
+              "RelativeToolTip": "PractiseVilla\\Controllers\\VillaController.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAkwM0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:44:14.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VillaNumberUpdateDto.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Models\\Dtos\\VillaNumberUpdateDto.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Models\\Dtos\\VillaNumberUpdateDto.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Models\\Dtos\\VillaNumberUpdateDto.cs",
+              "RelativeToolTip": "PractiseVilla\\Models\\Dtos\\VillaNumberUpdateDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:54:35.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\MappingConfig.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\MappingConfig.cs",
+              "RelativeToolTip": "PractiseVilla\\MappingConfig.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:25:30.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VillaCreateDto.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Models\\Dtos\\VillaCreateDto.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Models\\Dtos\\VillaCreateDto.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Models\\Dtos\\VillaCreateDto.cs",
+              "RelativeToolTip": "PractiseVilla\\Models\\Dtos\\VillaCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:33:10.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VillaNumber.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Models\\VillaNumber.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Models\\VillaNumber.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Models\\VillaNumber.cs",
+              "RelativeToolTip": "PractiseVilla\\Models\\VillaNumber.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:01:34.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VillaNumberRepository.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Repository\\VillaNumberRepository.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Repository\\VillaNumberRepository.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Repository\\VillaNumberRepository.cs",
+              "RelativeToolTip": "PractiseVilla\\Repository\\VillaNumberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:26:53.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IVillaNumberRepository.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Repository\\IRepository\\IVillaNumberRepository.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Repository\\IRepository\\IVillaNumberRepository.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Repository\\IRepository\\IVillaNumberRepository.cs",
+              "RelativeToolTip": "PractiseVilla\\Repository\\IRepository\\IVillaNumberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:25:31.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VillaRepository.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Repository\\VillaRepository.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Repository\\VillaRepository.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Repository\\VillaRepository.cs",
+              "RelativeToolTip": "PractiseVilla\\Repository\\VillaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:49:49.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IVillaRepository.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Repository\\IRepository\\IVillaRepository.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Repository\\IRepository\\IVillaRepository.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Repository\\IRepository\\IVillaRepository.cs",
+              "RelativeToolTip": "PractiseVilla\\Repository\\IRepository\\IVillaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:42:38.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "PractiseVilla\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:38:41.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Repository\\Repository.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Repository\\Repository.cs",
+              "RelativeToolTip": "PractiseVilla\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:44:12.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Program.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Program.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Program.cs",
+              "RelativeToolTip": "PractiseVilla\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:25:58.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250408102204_AddVillaNumberTable.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Migrations\\20250408102204_AddVillaNumberTable.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Migrations\\20250408102204_AddVillaNumberTable.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Migrations\\20250408102204_AddVillaNumberTable.cs",
+              "RelativeToolTip": "PractiseVilla\\Migrations\\20250408102204_AddVillaNumberTable.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwDAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:22:04.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PractiseVilla\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:22:17.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Villa.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Models\\Villa.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Models\\Villa.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Models\\Villa.cs",
+              "RelativeToolTip": "PractiseVilla\\Models\\Villa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:30:56.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Models\\APIResponse.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Models\\APIResponse.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Models\\APIResponse.cs",
+              "RelativeToolTip": "PractiseVilla\\Models\\APIResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:27:12.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PractiseVilla.csproj",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\PractiseVilla.csproj",
+              "RelativeDocumentMoniker": "PractiseVilla\\PractiseVilla.csproj",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\PractiseVilla.csproj",
+              "RelativeToolTip": "PractiseVilla\\PractiseVilla.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T06:36:42.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VillaDto.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Models\\Dtos\\VillaDto.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Models\\Dtos\\VillaDto.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Models\\Dtos\\VillaDto.cs",
+              "RelativeToolTip": "PractiseVilla\\Models\\Dtos\\VillaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:33:47.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250408044048_IntialModelUpdate.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Migrations\\20250408044048_IntialModelUpdate.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Migrations\\20250408044048_IntialModelUpdate.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Migrations\\20250408044048_IntialModelUpdate.cs",
+              "RelativeToolTip": "PractiseVilla\\Migrations\\20250408044048_IntialModelUpdate.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:40:48.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250408043744_InitialModel.cs",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Migrations\\20250408043744_InitialModel.cs",
+              "RelativeDocumentMoniker": "PractiseVilla\\Migrations\\20250408043744_InitialModel.cs",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\Migrations\\20250408043744_InitialModel.cs",
+              "RelativeToolTip": "PractiseVilla\\Migrations\\20250408043744_InitialModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:37:45.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\appsettings.json",
+              "RelativeDocumentMoniker": "PractiseVilla\\appsettings.json",
+              "ToolTip": "D:\\C#\\Programs\\PractiseVilla\\PractiseVilla\\appsettings.json",
+              "RelativeToolTip": "PractiseVilla\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T04:26:06.237Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
